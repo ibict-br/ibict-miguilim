@@ -1,0 +1,19 @@
+# E-mail sent to DSpace users when they register for an account
+#
+# Parameters: {0} is expanded to a special registration URL
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Miguilim: registro de usuário
+
+Você iniciou seu registro de usuário no Miguilim. Para conclui-lo, clique no link abaixo. Você será direcionado a uma página interna do Miguilim na qual deverá inserir alguns dados pessoais e finalizar seu registro.  
+
+{0}
+
+Em caso de dúvidas, entre em contato conosco.
+
+Atenciosamente, 
+Equipe Miguilim
+Coordenação de Tratamento, Análise e Disseminação da Informação Científica (CODIC)
+Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)
+Tel: (55 61) 3217-6449 | E-mail: revistas@ibict.br

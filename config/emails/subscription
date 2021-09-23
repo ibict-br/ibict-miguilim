@@ -1,0 +1,23 @@
+# E-mail sent to DSpace users when new items appear in collections they are
+# subscribed to
+#
+# Parameters: {0} is the details of the new collections and items
+# See org.dspace.core.Email for information on the format of this file.
+#
+Miguilim: novo registro no Diretório
+
+Você assinou uma coleção no Miguilim para que seja avisado sempre que um novo item for adicionado ao Diretório.
+
+Confira abaixo os detalhes do novo registro
+
+{0}
+
+Caso não deseje mais receber este tipo de notificação, acesse o "Meu espaço" do Miguilim e exclua sua assinatura na seção "Receber atualizações por e-mail".
+
+Em caso de dúvidas, entre em contato conosco.
+
+Atenciosamente, 
+Equipe Miguilim
+Coordenação de Tratamento, Análise e Disseminação da Informação Científica (CODIC)
+Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)
+Tel: (55 61) 3217-6449 | E-mail: revistas@ibict.br

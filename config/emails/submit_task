@@ -1,0 +1,17 @@
+# Workflow task email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  submitter's name
+# {3}  Description of task
+# {4}  link to 'my DSpace' page 
+#
+Miguilim: novo registro para validar
+
+O seguinte registro foi submetido ao Miguilim:
+
+Título: {0}
+Coleção: {1}
+Responsável pela submissão: {2}
+
+Para verificar este e outros registros, um dos administradores do Diretório deve acessar o "Meu espaço", o ambiente interno do Miguilim: {4}

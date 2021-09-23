@@ -1,0 +1,27 @@
+# Rejection email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  Name of the rejector
+# {3}  Reason for the rejection
+# {4}  Link to 'My DSpace' page
+#
+Miguilim: registro reprovado no Diretório
+
+Você submeteu {0} à coleção {1}.
+
+Seu registro foi reprovado pela Equipe Miguilim e não pôde, no momento, fazer parte deste Diretório. Leia abaixo o motivo desta reprovação inicial.
+
+{3}
+
+Seu registro não foi deletado definitivamente e ainda pode ser acessado por meio do "Meu espaço", o ambiente interno do Miguilim.
+
+Deste modo você pode corrigir as questões apontadas pela Equipe Miguilim e submeter o registro novamente para verificação.
+ 
+Em caso de dúvidas, entre em contato conosco.
+
+Atenciosamente, 
+Equipe Miguilim
+Coordenação de Tratamento, Análise e Disseminação da Informação Científica (CODIC)
+Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)
+Tel: (55 61) 3217-6449 | E-mail: revistas@ibict.br

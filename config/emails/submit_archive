@@ -1,0 +1,23 @@
+# Item Archived email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  handle 
+#
+Miguilim: registro aprovado no Diretório
+
+Você submeteu {0} à coleção {1}.
+
+Seu registro foi aprovado pela Equipe Miguilim e passou fazer parte deste Diretório. 
+
+O identificador abaixo foi atribuído ao registro e deve ser usado para acessá-lo:
+
+{2}
+
+Em caso de dúvidas, entre em contato conosco.
+
+Atenciosamente, 
+Equipe Miguilim
+Coordenação de Tratamento, Análise e Disseminação da Informação Científica (CODIC)
+Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)
+Tel: (55 61) 3217-6449 | E-mail: revistas@ibict.br
