@@ -94,6 +94,7 @@ label {
   font-weight: 400;
   border-bottom: 1px solid #28416f;
   outline: none;
+  padding: 10px;
 }
 
 /* Active alinhamento menu */
@@ -115,6 +116,14 @@ label {
   /* color: #757575;
 	background-color: #f4f4f4; */
   padding: 10px;
+  transition: 0.3s;
+  border-bottom: 1px solid #28416f;
+  outline: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	padding: 10px;
   transition: 0.3s;
   border-bottom: 1px solid #28416f;
   outline: none;
