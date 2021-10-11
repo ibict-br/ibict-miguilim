@@ -2387,7 +2387,7 @@
 
 	document.getElementById("lista-customizada").appendChild(div);
 
-	var link = 'http://200.130.0.112:8081/formulario-metadados/login?email='+email+'&issn='+ issn;  
+	var link = 'http://200.130.45.73:8081/formulario-metadados/login?email='+email+'&issn='+ issn;  
 
 	let linkEmailIssn = document.getElementById("parametroEmailIssn");
 	linkEmailIssn.setAttribute('href', link);

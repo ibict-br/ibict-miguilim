@@ -27,7 +27,7 @@
       The location of the DSpace home directory.
     </description>
     <param-name>dspace.dir</param-name>
-    <param-value>/dspace-base</param-value>
+    <param-value>/home/dspace/dspace-base1</param-value>
   </context-param>
   
   <context-param>
